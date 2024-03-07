@@ -14,7 +14,9 @@ body{
     align-items: center;
     justify-content: space-around;
 } 
-.cabecalho-imagem{width: 20%;}
+.cabecalho-imagem{width: 15%;}
+
 .lista-item{
     display: inline-block;
+    
 }

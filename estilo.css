@@ -18,6 +18,3 @@ body{
 .lista-item{
     display: inline-block;
 }
-.cabecalho-lista{
-    display: flex;
-}

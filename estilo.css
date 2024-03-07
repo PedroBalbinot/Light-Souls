@@ -18,6 +18,7 @@ body{
 .cabecalho-imagem{width: 15%;}
 
 .lista-item{
+    font-size: 24px;
     display: inline-block;
 
 }

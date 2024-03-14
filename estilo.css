@@ -31,10 +31,10 @@ body{
     align-items: center;
     justify-content: center;
     padding: 24px 0;
-   font-size: 12px ;
+   font-size: 25px ;
 }
 
 .secao1-div{
-    width: 20px;
-    height: 80px;
+    width: 20% ;
+    height:20%;
 }
